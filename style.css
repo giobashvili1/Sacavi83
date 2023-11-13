@@ -30,6 +30,7 @@ body{
     background-repeat: no-repeat;
     background-position: left ;
     padding-left: 80px;
+    color: white;
     
 }
 .my-user::placeholder{
@@ -57,6 +58,8 @@ body{
     background-position-y: center;
     background-position-x: 10%;
     padding-left: 80px;
+    color: white;
+    
     
 }
 .my-pass::placeholder{
